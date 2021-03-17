@@ -28,7 +28,7 @@ export const CemendationContextProvider = (props) => {
 
   const setVersion = ( version ) => {
     if ( version !== 'hk' ) version = "hk" // TODO: Add other vocab
-    fetch("/"+version+"-list.txt")
+    fetch(version+"-list.txt")
       .then(res => res.text())
       .then(
         (result) => {
