@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proofreader/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/proofreader/static/js/main.47523edc.chunk.js",
+    "main.js.map": "/proofreader/static/js/main.47523edc.chunk.js.map",
+    "runtime-main.js": "/proofreader/static/js/runtime-main.902ae3d8.js",
+    "runtime-main.js.map": "/proofreader/static/js/runtime-main.902ae3d8.js.map",
+    "static/js/2.4c2cf9fa.chunk.js": "/proofreader/static/js/2.4c2cf9fa.chunk.js",
+    "static/js/2.4c2cf9fa.chunk.js.map": "/proofreader/static/js/2.4c2cf9fa.chunk.js.map",
+    "static/js/3.402d29fb.chunk.js": "/proofreader/static/js/3.402d29fb.chunk.js",
+    "static/js/3.402d29fb.chunk.js.map": "/proofreader/static/js/3.402d29fb.chunk.js.map",
+    "index.html": "/proofreader/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/proofreader/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4c2cf9fa.chunk.js.LICENSE.txt": "/proofreader/static/js/2.4c2cf9fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.902ae3d8.js",
+    "static/js/2.4c2cf9fa.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.47523edc.chunk.js"
+  ]
+}
